@@ -1,0 +1,59 @@
+.container {
+  color: #fff;
+  width: 700px;
+  height: 108px;
+
+  h2 {
+    margin-bottom: 0.5rem;
+    color: var(--white);
+    font-size: 1.75;
+    font-weight: bold;
+    line-height: 34px;
+    transition: color 0.2s;
+    
+    &:hover {
+      cursor: pointer;
+      color: var(--pink-500);
+    }
+  }
+
+  p {
+    margin-bottom: 1.5625rem;
+    color: var(--gray-100);
+    font-size: 1.125rem;
+    line-height: 22px;
+    text-align: justify;
+  }
+
+  p + div {
+    color: var(--gray-200);
+    span + span {
+      margin-left: 2rem;
+    }
+
+    span > span {
+      margin-left: 0.5rem;
+    }
+  }
+
+  > div {
+    & + div {
+      margin-top: 3rem;
+    }
+  }
+
+  button {
+    margin-top: 4rem;
+    font-size: 1.125rem;
+    border: 0;
+    background: none;
+    color: var(--pink-500);
+    font-weight: 600;
+    line-height: 22px;
+
+    &:hover {
+      text-decoration: underline;
+      cursor: pointer;
+    }
+  }
+}
