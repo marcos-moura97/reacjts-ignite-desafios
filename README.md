@@ -19,7 +19,7 @@
 ### Chapter III
 
 - [Desafio 01 - Criando uma aplicação do zero](https://github.com/marcos-moura97/reacjts-ignite-desafios/tree/main/desafio05-trilha-reactjs)
-- Desafio 02 - Adicionando features ao blog
+- [Desafio 02 - Adicionando features ao blog](https://github.com/marcos-moura97/reacjts-ignite-desafios/tree/main/desafio06-trilha-reactjs)
 
 ### Chapter IV
 
