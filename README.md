@@ -24,7 +24,7 @@
 ### Chapter IV
 
 - [Desafio 01 - Interface com Chakra UI](https://github.com/marcos-moura97/reacjts-ignite-desafios/tree/main/desafio07-trilha-reactjs)
-- Desafio 02 - Upload de imagens
+- [Desafio 02 - Upload de imagens](https://github.com/marcos-moura97/reacjts-ignite-desafios/tree/main/desafio08-trilha-reactjs)
 
 ### Chapter V
 
