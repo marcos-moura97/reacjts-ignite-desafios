@@ -28,4 +28,4 @@
 
 ### Chapter V
 
-(ainda estudando)
+- [Desafio 01 - Otimizando a aplicação](https://github.com/marcos-moura97/reacjts-ignite-desafios/tree/main/desafio09-trilha-reactjs)
